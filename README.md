@@ -1,9 +1,17 @@
 #Life Below Water
 
-Life Below Water is a web-based project created using HTML, CSS, and JavaScript to raise awareness about the importance of conserving marine life and ecosystems. Inspired by the United Nations' Sustainable Development Goal 14, this project highlights the beauty, diversity, and challenges faced by aquatic life due to pollution, overfishing, and climate change.
+This project aims to promote awareness and action towards Sustainable Development Goal 14: Life Below Water. The website provides educational content, interactive features, and engaging visuals to highlight the importance of conserving and sustainably using the oceans, seas, and marine resources.
 
-The website features interactive content, engaging visuals, and informative sections aimed at educating users about ocean conservation. Animations and responsive design ensure an immersive user experience across devices. JavaScript is used to enhance interactivity, such as animated transitions, dynamic elements, and user-triggered content.
+Overview
+"Life Under Water" is an informative and interactive website built with HTML, CSS, and JavaScript. It educates users about the significance of marine life conservation and the various threats facing our oceans. The website includes a quiz game, a facts carousel, and visually appealing cards showcasing key aspects of SDG 14.
 
-This project is ideal for educational purposes, campaigns, or as a creative portfolio piece for web development. It reflects a strong message of sustainability through a simple yet impactful digital platform.
-
-Feel free to explore, share, and contribute to help spread awareness and protect our oceans.
+Features
+Educational Content: Provides detailed information about SDG 14 and the importance of marine conservation.
+Interactive Quiz: Engages users with a quiz game to test their knowledge about marine life and conservation efforts.
+Facts Carousel: Displays interesting facts about oceans and marine life in a dynamic carousel format.
+Responsive Design: Ensures a seamless user experience across different devices and screen sizes.
+Visually Appealing Cards: Showcases key aspects of SDG 14 with informative and visually attractive cards.
+Technologies Used
+HTML: Structure and content of the website.
+CSS: Styling and layout of the website.
+JavaScript: Interactive features and dynamic content.
